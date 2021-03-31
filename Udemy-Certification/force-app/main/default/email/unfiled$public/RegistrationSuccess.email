@@ -1,0 +1,5 @@
+<messaging:emailTemplate subject="Verify your registration" recipientType="Contact" relatedToType="Customer__c">
+<messaging:htmlEmailBody>
+    <c:RegristrationSuccessComponent/>
+</messaging:htmlEmailBody >
+</messaging:emailTemplate>

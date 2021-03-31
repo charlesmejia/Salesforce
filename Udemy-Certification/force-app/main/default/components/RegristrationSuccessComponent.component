@@ -1,0 +1,15 @@
+<apex:component access="Global">
+
+<html>
+    <body>
+        <header>
+            <div>
+
+            </div>
+        </header>
+        <section>
+            <p><span><apex:outputText escape="false" value="{!Label.Welcome}"/></span></p>
+        </section>
+    </body>
+</html>
+</apex:component>
