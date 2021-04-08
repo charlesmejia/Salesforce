@@ -7,4 +7,46 @@
         <shortDescription>Welcome</shortDescription>
         <value>Welcome</value>
     </labels>
+    <labels>
+        <fullName>Section_1_1</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Section_1_1</shortDescription>
+        <value>You buy a access for FunnyForce Ausement Park and you get a &lt;strong&gt;QR code&lt;/strong&gt;</value>
+    </labels>
+    <labels>
+        <fullName>Section_1_2</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Section_1_2</shortDescription>
+        <value>With this &lt;strong&gt;QR code&lt;/strong&gt; you can enter the park, You must pass the QR code on the reading screen to enter the park</value>
+    </labels>
+    <labels>
+        <fullName>Section_1_3</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Section_1_2description</shortDescription>
+        <value>You must pass the QR code on the reading screen to enter the park</value>
+    </labels>
+    <labels>
+        <fullName>Section_1_4</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Section_1_2description</shortDescription>
+        <value>Remember that you can add more amount to you QR code through this page: &lt;a href="#"&gt;FunnyForce/surchase.com&lt;/a&gt;</value>
+    </labels>
+    <labels>
+        <fullName>Section_2_1</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Section_1_2description</shortDescription>
+        <value>Enjoy the attractions</value>
+    </labels>
+    <labels>
+        <fullName>Footer_1</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Section_1_2description</shortDescription>
+        <value>Support number: 018000097534 or email:support@Fforce.com</value>
+    </labels>
 </CustomLabels>

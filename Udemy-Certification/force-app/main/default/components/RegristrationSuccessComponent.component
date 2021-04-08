@@ -1,15 +1,23 @@
 <apex:component access="Global">
 
 <html>
-    <body>
+    <body style="margin-right:0in; margin-left:0in; font-size:16px; font-family:Verdana, Geneva, sans-serif; margin:0in; margin-bottom:.0001pt; color: #000000;">
         <header>
-            <div>
+            <div style="background-image: -webkit-linear-gradient(top, #0000 0, #1c4c9a 100%); background-color: 224,100,7">
 
             </div>
         </header>
         <section>
-            <p><span><apex:outputText escape="false" value="{!Label.Welcome}"/></span></p>
+            <p><span><apex:outputText escape="false" value="{!$Label.Welcome}"/></span></p>
+            <p><span><apex:outputText escape="false" value="{!$Label.Section_1_1}"/></span></p>
+            <p><span><apex:outputText escape="false" value="{!$Label.Section_1_2}"/></span></p>
+            <p><span><apex:outputText escape="false" value="{!$Label.Section_1_4}"/></span></p>
         </section>
+        <footer>
+            <div style="font-size:9px; font-family:Verdana, Geneva, sans-serif; margin:0in; margin-bottom:.0001pt; color: #000000;">
+                <p><span><apex:outputText escape="false" value="{!$Label.Footer_1}"/></span></p>
+            </div>
+        </footer>
     </body>
 </html>
 </apex:component>
